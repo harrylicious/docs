@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/logo/logo-dark.png",
+    "light": "/logo/logo-light.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
@@ -27,25 +27,25 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "Demo",
       "url": "api-reference"
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Website",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "http://sap.lab.compnet.co.id/"
     },
     {
       "name": "Community",
       "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "url": "http://sap.lab.compnet.co.id/event"
     },
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "http://sap.lab.compnet.co.id/blogs"
     }
   ],
   "navigation": [
@@ -59,14 +59,14 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Fitur",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "essentials/training",
+        "essentials/content",
+        "essentials/user",
+        "essentials/phishing",
+        "essentials/scoring",
+        "essentials/report"
       ]
     },
     {
